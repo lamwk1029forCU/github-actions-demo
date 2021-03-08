@@ -11,4 +11,4 @@ jobs:
         FIRST_NAME: WaiKin
         LAST_NAME: Lam
 run: |
-echo $MY_VAR $FIRST_NAME $MIDDLE_NAME $LAST_NAME.
+echo $MY_VAR $FIRST_NAME $MIDDLE_NAME $LAST_NAME.;
